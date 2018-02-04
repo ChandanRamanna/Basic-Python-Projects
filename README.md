@@ -1,1 +1,1 @@
-# Slayer
+# Basic Python projects
